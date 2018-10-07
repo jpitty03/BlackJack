@@ -14,6 +14,7 @@ namespace BlackJack
             //sdsd
             //send to github
             //testing sync
+            //addison say hello
             Console.WriteLine("Hello Birches");
             for (int i = 0; i < 10; i++)
             {
