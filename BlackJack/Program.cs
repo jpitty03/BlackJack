@@ -14,6 +14,22 @@ namespace BlackJack
             //sdsd
             //send to github
             //testing sync
+            Console.WriteLine("Hello Birches");
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("i = {0}", i);
+            }
+            
+
+            int x = 0;
+
+            do
+            {
+                Console.WriteLine("Fuck bitches get money");
+                x++;
+
+            } while (x <= 69);
+            Console.ReadLine();
         }
     }
 }
